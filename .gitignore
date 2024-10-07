@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+.venv
+site
+.DS_Store
+
+# Plant Node build directoru
+*/build
+build
+
+.vscode
